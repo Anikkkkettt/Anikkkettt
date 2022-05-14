@@ -1,5 +1,5 @@
 ## Hi there, I'm Aniket 👋
-![](https://komarev.com/ghpvc/?username=Anikkkettt&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Anikkkkettt&color=blueviolet)
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/)
 <img src="https://raw.githubusercontent.com/jashnimje/jashnimje/master/image1.png" height="250px" width="320px" alt="illustration" align="right">
@@ -11,9 +11,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Anikkkettt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
-[<img align="left" alt="Anikkkettt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Anikkkettt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Anikkkkettt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
+[<img align="left" alt="Anikkkkettt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Anikkkkettt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -62,16 +62,16 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   <img src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" height="200px" width="200px" alt="illustration" align="left">
-  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anikkkettt&show_icons=true&theme=tokyonight"> 
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Anikkkkettt&show_icons=true&theme=tokyonight"> 
 <img src="https://i.pinimg.com/originals/7b/7e/07/7b7e0712e9c23914f938ec7f51cd0951.png" height="200px" width="200px" alt="illustration" align="right">
   <p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anikkkettt&theme=radical"> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anikkkkettt&theme=radical"> 
    <p align="center">
-     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Anikkkettt"> 
+     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Anikkkkettt"> 
   <p align="center">
   <img  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="248px" width="480px" alt="illustration" style="border-radius:5%" align="right">
   </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikkkettt">  
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikkkkettt">  
 
 
 
