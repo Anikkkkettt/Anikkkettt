@@ -72,7 +72,8 @@
   <p align="center">
   <img  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="248px" width="480px" alt="illustration" style="border-radius:5%" align="right">
   </p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anikkkkettt">  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anikkkkettt&show_icons=true&locale=en&layout=compact" alt="Anikkkkettt" /></p>
+
 
 
 
