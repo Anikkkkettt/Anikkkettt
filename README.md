@@ -8,6 +8,7 @@
 - 🔭 Web Dev enthusiast | Budding App Developer
 - 🌱 Data Structure | Problem Solving | Algorithms
 - 👯 Competitive Coder ⭐
+- 💻 Currently exploring React JS
 
 ### Connect with me:
 
