@@ -15,6 +15,9 @@
 [<img align="left" alt="Anikkkkettt | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="Anikkkkettt | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Anikkkkettt | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.codechef.com/users/aniket3101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shayanika_54" width="22px" /></a>
+<a href="https://www.hackerrank.com/AniketNayek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shayanikadas54" width="22px" /></a>
+</p>
 
 <br />
 
