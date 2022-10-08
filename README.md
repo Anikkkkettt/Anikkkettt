@@ -77,7 +77,7 @@
   </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anikkkkettt&show_icons=true&locale=en&layout=compact"  height="248px" width="480px"alt="Anikkkkettt" /></p>
 
-
+[![@anikkket's Holopin board](https://holopin.io/api/user/board?user=anikkket)](https://holopin.io/@anikkket)
 
 
 </details>
