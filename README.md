@@ -75,7 +75,7 @@
   <p align="center">
   <img  src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" height="248px" width="360px" alt="illustration" style="border-radius:5%" align="right">
   </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anikkkkettt&show_icons=true&locale=en&layout=compact"  height="248px" width="480px"alt="Anikkkkettt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anikkkkettt&show_icons=true&locale=en&layout=compact"  height="248px" width="400px"alt="Anikkkkettt" /></p>
 
 [![@anikkket's Holopin board](https://holopin.io/api/user/board?user=anikkket)](https://holopin.io/@anikkket)
 
